@@ -1,4 +1,4 @@
-### Heyo I'm Soldr I make scuffed code
+# Heyo I'm Soldr I make scuffed code
 
 ## Yes I am a JSFag what
 
