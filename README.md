@@ -1,6 +1,6 @@
 # Heyo I'm Soldr I make scuffed code
 
-## Yes I am a JSFag what
+## i like javascript its fun
 
 You should join my friend Synergy's server he's pretty cool
 
